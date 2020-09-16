@@ -1,0 +1,20 @@
+{
+  "title": "Getting Started with Entando",
+  "description": "Learn to install and build Entando applications",
+  "icon": "fa-entando",
+  "courses": [
+    {
+      "course_id": "installing-entando",
+      "title": "Getting Started With Entando"
+    },
+    {
+      "course_id": "entando-microservices",
+      "title": "Building Entando Microservices"
+    },
+    {
+      "course_id": "entando-cms-intro",
+      "title": "Intro to the Entando CMS"
+    }
+  ]
+}
+
