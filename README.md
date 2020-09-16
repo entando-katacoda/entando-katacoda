@@ -1,2 +1,2 @@
 # entando-katacoda
-Katacoda learning labs
+Katacoda for entando
