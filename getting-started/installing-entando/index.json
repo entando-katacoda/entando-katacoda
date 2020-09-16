@@ -26,15 +26,14 @@
   ],
   "environment": {
     "showdashboard": true,
-    "dashboards": [{"name":"Local Web Browser","port":8080}, {"name": "OpenShift Console", "href": "https://console-openshift-console-[[HOST_SUBDOMAIN]]-443-[[KATACODA_HOST]].environments.katacoda.com"}],
+    "dashboards": [{"name":"Local Web Browser","port":8080}],
     "uilayout": "editor-terminal",
     "uisettings": "java",
     "hideintro": false,
-    "uieditorpath": "/root/projects/kogito",
+    "uieditorpath": "/root/projects/entando",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal. A safe place to learn and execute commands.\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "kubernetes-cluster-running:1.18",
-    "port": 8443
+    "imageid": "kubernetes-cluster-running:1.18"
   }
 }
