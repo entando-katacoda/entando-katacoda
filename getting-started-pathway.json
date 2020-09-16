@@ -1,0 +1,23 @@
+{
+  "title": "Getting Started with Entando",
+  "description": "Learn to Build Entando Apps",
+  "icon": "fa-entando",
+  "courses": [
+    {
+      "course_id": "installing-entando",
+      "title": "Installing Entando on Kubernetes",
+      "description": "Learn to install Entando on Kubernetes"
+    },
+    {
+      "course_id": "entando-cms-intro",
+      "title": "Introduction to the Entando CMS",
+      "description": "Learn to content using the Entando CMS"
+    },
+    {
+      "course_id": "entando-microservices",
+      "title": "Entando Microservices",
+      "description": "Build microservices for your Entando application"
+    }
+  ]
+}
+
